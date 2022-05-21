@@ -1,4 +1,3 @@
 module github.com/ldeng7/go-logger-lite
 
-go 1.15
-
+go 1.18
